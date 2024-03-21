@@ -20,7 +20,7 @@
   "homepage": "https://github.com/mostafa-dci/nodejs#readme",
   "type": "module",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.18.3",
     "morgan": "^1.10.0"
   }
 }
